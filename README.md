@@ -30,6 +30,12 @@ From left to right: Amaan, Fengrui, Shuyan, Hector
 
 ## Color Detection Program
 
+### Functionalities
+- Tracking the colored object
+- Adjust to any color
+- Change the minimum area threshold to avoid noise
+### Live Presentation: Color Detection 
+[![Video Title](https://img.youtube.com/vi/FbhEe8014F8/0.jpg)](https://youtu.be/FbhEe8014F8)
 
 
 ## Opencv Detection Software
