@@ -23,9 +23,9 @@ From left to right: Amaan, Fengrui, Shuyan, Hector
 ### Preliminary Design
 At first we designed a one-piece structure and mounted the vacuum cleaner to the front bumper of the car.
 <p float="left">
-  <img src="/images/Sucker v1_1.png" width="400" />
-  <img src="/images/Sucker v1_2.png" width="400" /> 
-  <img src="/images/Sucker v1_3.png" width="400" />
+  <img src="/images/Sucker v1_1.png" width="300" />
+  <img src="/images/Sucker v1_2.png" width="300" /> 
+  <img src="/images/Sucker v1_3.png" width="300" />
 </p>
 
 pros:
@@ -38,10 +38,10 @@ After evaluating the performance of the preliminary design, we made significant 
   <img src="/images/tube_2.png" width="500" /> 
 </p>
 
-<p float="left">
-  <img src="/images/Sucker v2_1.png" width="500" />
-  <img src="/images/Sucker v2_2.png" width="500" /> 
-</p>
+
+![fan installation](images/Sucker v2_1jpg)
+![fan installation](images/Sucker v2_2.jpg)
+
 
 ### Fan Installation
 The fan is placed right behind the mesh.
