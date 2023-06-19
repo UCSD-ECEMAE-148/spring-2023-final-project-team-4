@@ -47,7 +47,7 @@ Biomimicry was pivotal in designing the 3D-printed vacuum mechanism for trash co
   <img src="/images/Sucker v1_3.png" width="300" />
 </p>
 
-## Final Design
+### Final Design
 **Advantages:**  <br />
 &ensp; - Modular design, the parts are interchangeable for different scenarios. <br />
 &ensp; - Transform one complex-shaped object into several simple-shaped objects, making it easier and faster to print. <br />
@@ -68,9 +68,16 @@ Biomimicry was pivotal in designing the 3D-printed vacuum mechanism for trash co
 ![sucker_v2_2](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-4/blob/main/images/Sucker%20v2_2.png)
 
 
-### Fan Installation
+#### Fan Installation
 The fan is placed right behind the mesh, intaking air from the nozzle and exhaust backwards, trash will be sucked in together but blocked by the mesh and then falls naturally into the collection box.
 ![fan installation](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-4/blob/main/images/fan%20installation.png)
+
+#### Other mechanical parts
+OAKD camera mount and Jetson nano case.
+<p float="left">
+  <img src="https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-4/blob/main/images/camera%20mount.png" height="400" />
+  <img src="https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-4/blob/main/images/camera%20mount.png" height="400" /> 
+</p>
 
 
 ## Electric Circuit Diagram
