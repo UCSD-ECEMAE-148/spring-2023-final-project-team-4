@@ -63,7 +63,7 @@ The fan is placed right behind the mesh.
 
 ## Electric Circuit Diagram
 
-
+![Electric Circuit](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-4/blob/main/images/electric_circuit_1.png)
 
 
 
