@@ -57,9 +57,9 @@ After evaluating the performance of the preliminary design, we made significant 
 </p>
 
 
-![sucker_v2_1](images/Sucker v2_1jpg)
+![sucker_v2_1](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-4/blob/main/images/Sucker%20v2_1.png)
 
-![sucker_v2_2](images/Sucker v2_2.jpg)
+![sucker_v2_2](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-4/blob/main/images/Sucker%20v2_2.png)
 
 
 ### Fan Installation
