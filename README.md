@@ -23,9 +23,9 @@ From left to right: Amaan, Fengrui, Shuyan, Hector
 ### Preliminary Design
 At first we designed a one-piece structure and mounted the vacuum cleaner to the front bumper of the car.
 <p float="left">
-  <img src="/images/Sucker v1_1.png" width="500" />
-  <img src="/images/Sucker v1_2.png" width="500" /> 
-  <img src="/images/Sucker v1_3.png" width="500" />
+  <img src="/images/Sucker v1_1.png" width="400" />
+  <img src="/images/Sucker v1_2.png" width="400" /> 
+  <img src="/images/Sucker v1_3.png" width="400" />
 </p>
 
 pros:
