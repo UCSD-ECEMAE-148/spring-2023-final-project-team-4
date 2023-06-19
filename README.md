@@ -10,6 +10,7 @@ From left to right: Amaan, Fengrui, Shuyan, Hector
 ![above](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-4/blob/main/images/car_above.jpg)
 ![side2](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-4/blob/main/images/car_side_2.jpg)
 
+
 ## Abstract:
 This project presents the development of a robotic autonomous car equipped with a Jetson Nano, VESC controller, two cameras, and two fans to detect and collect trash from the ground. The system employs a custom Detection Software written in Python, which utilizes the camera feed to identify trash objects. By controlling a relay switch based on the software's analysis, the fans are activated or deactivated depending on the presence of trash in front of the car. In addition to the detection mechanism, a 3D printed and designed vacuum mechanism is incorporated to effectively collect the identified trash. This project aims to create an efficient and automated solution for trash detection and collection, contributing to a cleaner and more sustainable environment.
 
@@ -19,6 +20,10 @@ Biomimicry was pivotal in designing the 3D-printed vacuum mechanism for trash co
 | Car head                                   | Elephant                                  |
 |--------------------------------------------|--------------------------------------------|
 | ![side3](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-4/blob/main/images/car_side_3.jpg) | ![elephant](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-4/blob/main/images/elephant.jpg) |
+
+
+## **Live Demonstration of Autonomous Trash Collection:**
+[![Video Title](https://img.youtube.com/vi/FbhEe8014F8/0.jpg)](https://youtu.be/3PPiyPLOKiE)
 
 ## Code Repository
 [Link to Ece-148-team04 repository](https://github.com/AmaanSingh/Ece-148-team04.git)
