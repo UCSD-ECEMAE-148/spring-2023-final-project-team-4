@@ -48,10 +48,10 @@ Biomimicry was pivotal in designing the 3D-printed vacuum mechanism for trash co
 </p>
 
 ## Final Design
-After evaluating the performance of the preliminary design, we made significant improvements, using modular design and added two more mounting points.
 **Advantages:**  <br />
-&ensp; - The parts are interchangeable for different scenarios. <br />
+&ensp; - Modular design, the parts are interchangeable for different scenarios. <br />
 &ensp; - Transform one complex-shaped object into several simple-shaped objects, making it easier and faster to print. <br />
+&ensp; - Added two more mounting points to improve stability. <br />
 &ensp; - Better aerodynamic efficiency, reducing intake and suction losses. <br />
 &ensp; - Stronger fan and optimized nozzle improved sucking force and range of collection. <br />
     
