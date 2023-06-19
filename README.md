@@ -70,7 +70,9 @@ Biomimicry was pivotal in designing the 3D-printed vacuum mechanism for trash co
 
 #### Fan Installation
 The fan is placed right behind the mesh, intaking air from the nozzle and exhaust backwards, trash will be sucked in together but blocked by the mesh and then falls naturally into the collection box.
+<p float="left">
 <img src="https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-4/blob/main/images/fan%20installation.png" alt="Alt text" width="600" align="mid"/>
+</p>
 
 #### Other mechanical parts
 A high and curved OAKD camera mount guarantees a great view for the camera.
