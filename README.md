@@ -47,15 +47,21 @@ Biomimicry was pivotal in designing the 3D-printed vacuum mechanism for trash co
   <img src="/images/Sucker v1_3.png" width="300" />
 </p>
 
-
-
-### Final Design
+## Final Design
 After evaluating the performance of the preliminary design, we made significant improvements, using modular design and added two more mounting points.
+**Advantages:**  <br />
+&ensp; - The parts are interchangeable for different scenarios. <br />
+&ensp; - Transform one complex-shaped object into several simple-shaped objects, making it easier and faster to print. <br />
+&ensp; - Better aerodynamic efficiency, reducing intake and suction losses. <br />
+&ensp; - Stronger fan and optimized nozzle improved sucking force and range of collection. <br />
+    
+**Disadvantages:** <br />
+&ensp; - Airtightness reduced due to seams, needs sealing ring or glue to further improve efficiency. <br />
+
 <p float="left">
   <img src="/images/tube_1.png" height="500" />
   <img src="/images/tube_2.png" height="500" /> 
 </p>
-
 
 ![sucker_v2_1](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-4/blob/main/images/Sucker%20v2_1.png)
 
