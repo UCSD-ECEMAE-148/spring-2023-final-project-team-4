@@ -25,7 +25,7 @@ Biomimicry was pivotal in designing the 3D-printed vacuum mechanism for trash co
 
 ## Robocar Vacuum System Design 
 
-### Preliminary Design
+### Preliminary Design (#tab/tab-a)
 
 **Advantages:**  <br />
 - The robotic autonomous car has the ability to accommodate and utilize two fans and two cameras, allowing for effective trash detection and collection. <br />
