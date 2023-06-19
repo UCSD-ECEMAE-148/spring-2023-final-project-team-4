@@ -17,20 +17,27 @@ This project presents the development of a robotic autonomous car equipped with 
 ## Why Elephant?
 Biomimicry was pivotal in designing the 3D-printed vacuum mechanism for trash collection. Inspired by an elephant's nose and mouth, the team replicated their efficiency and adaptability. Through detailed study of muscular tissues and trunk shape, they mimicked its functionality. The mechanism's flexible and elongated components adjust to various trash sizes, akin to the precision of an elephant's trunk. Additionally, interior channels imitated the convoluted nasal passages, optimizing suction for effective collection. This biomimetic approach enhanced functionality, fostering sustainable and nature-inspired waste management innovation.
 
-| Collecting trash (same color)                                | Collecting different Colored Trash (3 colors)                                  |
-|--------------------------------------------|--------------------------------------------|
+
+|Car head                                    | Elephant                                  |
 | ![side3](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-4/blob/main/images/car_side_3.jpg) | ![elephant](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-4/blob/main/images/elephant.jpg) |
+
+
+
 
 
 ## **Live Demonstration of Autonomous Trash Collection:**
 &ensp; - Our car has the ability to detect trash of different colors in different environments and also distinguish between trash and non-trash. <br />
 
-| Car head                                   | Elephant                                  |
+
+| Collecting trash (same color)              | Collecting different Colored Trash (3 colors)                                  |
 |--------------------------------------------|--------------------------------------------|
 | [![Video Title](https://img.youtube.com/vi/3PPiyPLOKiE/0.jpg)](https://youtu.be/3PPiyPLOKiE)| [![Video Title](https://img.youtube.com/vi/kySv7iY4cWU/0.jpg)](https://youtu.be/kySv7iY4cWU) |
 
+| Collecting trash while Non-Trash Objects       |
+|--------------------------------------------|
+| [![Video Title](https://img.youtube.com/vi/kySv7iY4cWU/0.jpg)](https://youtu.be/kySv7iY4cWU)|
 
-[![Video Title](https://img.youtube.com/vi/kySv7iY4cWU/0.jpg)](https://youtu.be/kySv7iY4cWU)
+
 
 ## Code Repository
 [Link to Ece-148-team04 repository](https://github.com/AmaanSingh/Ece-148-team04.git)
