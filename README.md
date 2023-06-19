@@ -24,6 +24,7 @@ Biomimicry was pivotal in designing the 3D-printed vacuum mechanism for trash co
 
 ## **Live Demonstration of Autonomous Trash Collection:**
 [![Video Title](https://img.youtube.com/vi/3PPiyPLOKiE/0.jpg)](https://youtu.be/3PPiyPLOKiE)
+[![Video Title](https://img.youtube.com/vi/kySv7iY4cWU/0.jpg)](https://youtu.be/kySv7iY4cWU)
 
 ## Code Repository
 [Link to Ece-148-team04 repository](https://github.com/AmaanSingh/Ece-148-team04.git)
