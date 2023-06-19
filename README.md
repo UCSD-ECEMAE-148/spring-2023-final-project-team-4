@@ -11,6 +11,9 @@ From left to right: Amaan, Fengrui, Shuyan, Hector
 ![side2](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-4/blob/main/images/car_side_2.jpg)
 
 ## Why Elephant?
+| Image 1                                    | Image 2                                    |
+|--------------------------------------------|--------------------------------------------|
+| ![side3](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-4/blob/main/images/car_side_3.jpg) | ![elephant](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-4/blob/main/images/elephant.jpg) |
 
 
 
