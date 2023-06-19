@@ -73,10 +73,9 @@ The fan is placed right behind the mesh, intaking air from the nozzle and exhaus
 <img src="https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-4/blob/main/images/fan%20installation.png" alt="Alt text" width="600" align="mid"/>
 
 #### Other mechanical parts
-OAKD camera mount and Jetson nano case.
+A high and curved OAKD camera mount guarantees a great view for the camera.
 <p float="left">
   <img src="https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-4/blob/main/images/camera%20mount.png" height="400" />
-  <img src="https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-4/blob/main/images/camera%20mount.png" height="400" /> 
 </p>
 
 
