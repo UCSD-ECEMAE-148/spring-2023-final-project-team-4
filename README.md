@@ -17,7 +17,7 @@ This project presents the development of a robotic autonomous car equipped with 
 ## Why Elephant?
 Biomimicry was pivotal in designing the 3D-printed vacuum mechanism for trash collection. Inspired by an elephant's nose and mouth, the team replicated their efficiency and adaptability. Through detailed study of muscular tissues and trunk shape, they mimicked its functionality. The mechanism's flexible and elongated components adjust to various trash sizes, akin to the precision of an elephant's trunk. Additionally, interior channels imitated the convoluted nasal passages, optimizing suction for effective collection. This biomimetic approach enhanced functionality, fostering sustainable and nature-inspired waste management innovation.
 
-| Car head                                   | Elephant                                  |
+| Collecting trash (same color)                                | Collecting different Colored Trash (3 colors)                                  |
 |--------------------------------------------|--------------------------------------------|
 | ![side3](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-4/blob/main/images/car_side_3.jpg) | ![elephant](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-4/blob/main/images/elephant.jpg) |
 
