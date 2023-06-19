@@ -25,7 +25,11 @@ Biomimicry was pivotal in designing the 3D-printed vacuum mechanism for trash co
 ## **Live Demonstration of Autonomous Trash Collection:**
 &ensp; - Our car has the ability to detect trash of different colors in different environments and also distinguish between trash and non-trash. <br />
 
-[![Video Title](https://img.youtube.com/vi/3PPiyPLOKiE/0.jpg)](https://youtu.be/3PPiyPLOKiE)
+| Car head                                   | Elephant                                  |
+|--------------------------------------------|--------------------------------------------|
+| [![Video Title](https://img.youtube.com/vi/3PPiyPLOKiE/0.jpg)](https://youtu.be/3PPiyPLOKiE)| [![Video Title](https://img.youtube.com/vi/kySv7iY4cWU/0.jpg)](https://youtu.be/kySv7iY4cWU) |
+
+
 [![Video Title](https://img.youtube.com/vi/kySv7iY4cWU/0.jpg)](https://youtu.be/kySv7iY4cWU)
 
 ## Code Repository
