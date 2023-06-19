@@ -27,12 +27,12 @@ Biomimicry was pivotal in designing the 3D-printed vacuum mechanism for trash co
 
 ### Preliminary Design
 
-  Advantages:
-    * The robotic autonomous car has the ability to accommodate and utilize two fans and two cameras, allowing for effective trash detection and collection.
-    * The presence of a hinged door for the garbage disposal unit provides a convenient and efficient means of emptying collected trash.
-  Disadvantages:
-    * One of the disadvantages is that the nozzle of the vacuum mechanism is unchangeable, limiting its adaptability to different types of trash or cleaning scenarios.
-    * The complex geometry of the 3D-printed vacuum mechanism makes it more challenging to manufacture, potentially increasing production difficulties and costs.
+Advantages:
+    The robotic autonomous car has the ability to accommodate and utilize two fans and two cameras, allowing for effective trash detection and collection.
+    The presence of a hinged door for the garbage disposal unit provides a convenient and efficient means of emptying collected trash.
+Disadvantages:
+    One of the disadvantages is that the nozzle of the vacuum mechanism is unchangeable, limiting its adaptability to different types of trash or cleaning scenarios.
+    The complex geometry of the 3D-printed vacuum mechanism makes it more challenging to manufacture, potentially increasing production difficulties and costs.
   
 <p float="left">
   <img src="/images/Sucker v1_1.png" width="300" />
