@@ -39,8 +39,9 @@ After evaluating the performance of the preliminary design, we made significant 
 </p>
 
 
-![sucker v2_1](images/Sucker v2_1jpg)
-![sucker v2_2](images/Sucker v2_2.jpg)
+![sucker_v2_1](images/Sucker v2_1jpg)
+
+![sucker_v2_2](images/Sucker v2_2.jpg)
 
 
 ### Fan Installation
