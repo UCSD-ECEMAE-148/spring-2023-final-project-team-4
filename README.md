@@ -15,7 +15,8 @@ From left to right: Amaan, Fengrui, Shuyan, Hector
 |--------------------------------------------|--------------------------------------------|
 | ![side3](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-4/blob/main/images/car_side_3.jpg) | ![elephant](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-4/blob/main/images/elephant.jpg) |
 
-
+## Code Repository
+[Link to Ece-148-team04 repository](https://github.com/AmaanSingh/Ece-148-team04.git)
 
 ## Robocar Vacuum System Design 
 
