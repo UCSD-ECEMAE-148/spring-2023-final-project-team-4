@@ -84,4 +84,9 @@ The fan is placed right behind the mesh.
 
 
 ## Opencv Detection Software
+- API Roboflow
+- DepthAI
+- PyVESC
+- Jetson GPIO Board Pins Library
+![model](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-4/blob/main/images/model.png)
 
