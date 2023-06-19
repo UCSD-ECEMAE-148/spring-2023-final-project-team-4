@@ -58,7 +58,7 @@ After evaluating the performance of the preliminary design, we made significant 
 
 ### Fan Installation
 The fan is placed right behind the mesh.
-![fan installation](images/fan installation.jpg)
+![fan installation](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-4/blob/main/images/fan%20installation.png)
 
 
 ## Electric Circuit Diagram
