@@ -34,13 +34,13 @@ cons:
 ### Final Design
 After evaluating the performance of the preliminary design, we made significant improvements, using modular design and added two more mounting points.
 <p float="left">
-  <img src="/images/tube_1.png" width="500" />
-  <img src="/images/tube_2.png" width="500" /> 
+  <img src="/images/tube_1.png" height="500" />
+  <img src="/images/tube_2.png" height="500" /> 
 </p>
 
 
-![fan installation](images/Sucker v2_1jpg)
-![fan installation](images/Sucker v2_2.jpg)
+![sucker v2_1](images/Sucker v2_1jpg)
+![sucker v2_2](images/Sucker v2_2.jpg)
 
 
 ### Fan Installation
