@@ -74,6 +74,7 @@ The fan is placed right behind the mesh, intaking air from the nozzle and exhaus
 
 
 ## Electric Circuit Diagram
+We used two cameras as sensor in this project, in which the OAKD camera has a wider field of view, detecting the positition of the trash and naviagtes the car to the trash. When the car is close to the trash and the trash enters the view of the ordinary USB camera, it will run the fan and suck in the trash. The trigger mechanism is that when the USB camera detects the trash, it will send a signal to Jetson nano and Jetson will output 5V high level to the relay, then the relay will connect the circuit of fan and 12V battery.
 
 ![Electric Circuit](https://github.com/UCSD-ECEMAE-148/spring-2023-final-project-team-4/blob/main/images/electric_circuit_1.png)
 
